@@ -4,4 +4,4 @@ Simulated the crowd behavior scenarios in Unity-based environment. Assets are ac
 Simulation is made to run on VR devices, specifically HIVE Focus 3.
 
 
-Google drive link for the whole project file(https://bit.ly/47aHL3v)
+Google drive link for the whole project file + apk(https://bit.ly/47aHL3v)
