@@ -1,7 +1,6 @@
-Implemented Digital Twins for crowd simulation under different scenarios.
-Flood simulation is implemented over a city block model in Unity and crowd simulation is implemented to create a scenario of fleeing as well as a simulation without any flooding.
-Simulated the crowd behavior scenarios in Unity-based environment. Assets are acquired from Unity asset store.
-Simulation is made to run on VR devices, specifically HIVE Focus 3.
+This is a Digital Twin VR project that has a digital representation of flooding of an urban terrain and a simulation of crowd with the user having two options of simulations to choose from. One being a crowd simulation without the floods. Other being a fleeing crowd simulation with options of safe zones available to flee to.
+Simulation of the crowd behavior scenarios is done in Unity-based environment. Assets are acquired from Unity asset store.
+Simulation is made to run on specifically HIVE Focus 3.
 
 
 Google drive link for the whole project file + apk(https://bit.ly/47aHL3v)
